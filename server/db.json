@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Tanvir Hasan Tanim",
+      "email": "tanim@test.com",
+      "password": "$2a$10$Nbnl.XSYST5rEl4VQpBLzecTV9sXI6HCcuTKe3QaLanHPGEOXcIbi",
+      "avatar": "https://png.pngtree.com/png-vector/20220709/ourmid/pngtree-businessman-user-avatar-wearing-suit-with-red-tie-png-image_5809521.png",
+      "role": "Administration",
+      "phone": "123-456-7890",
+      "address": "123 Main Street, City, Country",
+      "approved": true
+    },
+    {
+      "email": "nasir@test.com",
+      "password": "$2a$10$TSuilwXnOw8xcfZs6UooTuMj3HKn6mS7MEvZS7lsCq9WcedCeGHwe",
+      "id": 2,
+      "name": "nasir",
+      "avatar": "https://png.pngtree.com/png-vector/20220709/ourmid/pngtree-businessman-user-avatar-wearing-suit-with-red-tie-png-image_5809521.png",
+      "role": "Public",
+      "phone": "43453535",
+      "address": "Belkuchi",
+      "approved": false
+    },
+    {
+      "email": "tanvir@test.com",
+      "password": "$2a$10$UYnD.5E5uruhxaWDbgD.5.D.bR57wNNdsTVis/opdtDP2.ILvWr9W",
+      "id": 3,
+      "name": "tanvir",
+      "avatar": "https://png.pngtree.com/png-vector/20220709/ourmid/pngtree-businessman-user-avatar-wearing-suit-with-red-tie-png-image_5809521.png",
+      "role": "Admin",
+      "phone": "234343",
+      "address": "csdfsafsd",
+      "approved": true
+    },
+    {
+      "email": "rafiz@test.com",
+      "password": "$2a$10$S6kQl7BhWcr87WHL4GJJTOQ6VJT/ecoFYeZzqp/10B.QEMVARIg36",
+      "id": 4,
+      "name": "Rafiz",
+      "avatar": "https://png.pngtree.com/png-vector/20220709/ourmid/pngtree-businessman-user-avatar-wearing-suit-with-red-tie-png-image_5809521.png",
+      "role": "Village Admin",
+      "phone": "2344343",
+      "address": "enayetpur",
+      "approved": true
+    }
+  ]
+}
